@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">22_summerapp_1</string>
+
+    <string name="sign_up">회원가입</string>
+    <string name="enter_email">이메일을 입력하세요.</string>
+    <string name="enter_pass">비밀번호를 입력하세요.</string>
+    <string name="already_registered">로그인하기</string>
+    <string name="sign_in">로그인</string>
+    <string name="not_registered">회원가입</string>
+    <string name="profile">내 프로필</string>
+    <string name="sign_out">로그아웃</string>
+    <string name="username">이름을 입력하세요.</string>
+    <!--<string name="save">Save</string>-->
+    <string name="add_post">글 올리기</string>
+    <string name="enter_caption">여기에 내용을 입력하세요.</string>
+    <string name="add_comment">작성하기</string>
+    <string name="write_Comment">댓글을 작성하세요</string>
+    <string name="save">저장</string>
+</resources>
